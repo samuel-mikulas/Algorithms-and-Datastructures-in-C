@@ -1,7 +1,7 @@
-/* file :    planes.c */
-/* author :  Samuel Mikulas (s.mikulas@student.rug.nl) */
-/* date :    Tue 4 Feb 2024 */
-/* version:  1.0 */
+/* file :    */
+/* author :  */
+/* date :    */
+/* version:  */
 
 /* Description:
     Program takes n planes and a status for repair of each plain (y/n)
