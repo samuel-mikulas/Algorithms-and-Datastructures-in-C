@@ -1,4 +1,4 @@
-/* recognizeExp.h, Gerard Renardel, 29 January 2014 */
+
 
 #ifndef RECOGNIZEEXP_H
 #define RECOGNIZEEXP_H
