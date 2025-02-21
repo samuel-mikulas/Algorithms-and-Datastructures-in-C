@@ -1,7 +1,7 @@
-/* file :    recognizeEq.c */
-/* author :  Samuel Mikulas (s.mikulas@student.rug.nl) */
-/* date :    Tue 19 Feb 2024 */
-/* version:  1.0 */
+/* file :    */
+/* author :  */
+/* date :    */
+/* version:  */
 
 /* Description:
     Program evaluates scans system of two linear equations
