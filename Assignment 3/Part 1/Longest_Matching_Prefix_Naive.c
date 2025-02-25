@@ -1,1 +1,0 @@
-/* This will be naive implementation of LMP algoriths*/
