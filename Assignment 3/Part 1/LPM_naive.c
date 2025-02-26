@@ -1,6 +1,6 @@
 /* file:    LPM_naive.c*/
-/* author:  */
-/* date:    */
+/* author:  S. Mikulas, D. Gunduc */
+/* date:    Feb 24 2025 */
 /* version: 1.0 */
 
 /* Description:
